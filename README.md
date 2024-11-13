@@ -20,6 +20,7 @@ O `resumir.py` lê um arquivo de texto, processa o conteúdo e cria um resumo re
    ```python
    import nltk
    nltk.download('punkt')
+   nltk.download('punkt_tab')
    ```
 
 ## Como Usar
